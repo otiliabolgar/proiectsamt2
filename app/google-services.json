@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "791965618181",
+    "project_id": "proiect-samt-8b8f4",
+    "storage_bucket": "proiect-samt-8b8f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791965618181:android:c8b994433dc3842f870c6c",
+        "android_client_info": {
+          "package_name": "com.project.proiectsamt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_sfJ_uijUXdMUCaOLS75AOPAXyM94MEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

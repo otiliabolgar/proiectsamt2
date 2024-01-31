@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">proiectsamt</string>
+    <string name="ai_primit_o_notificare">Ai primit o notificare</string>
+    <string name="todo">TODO</string>
+    <string name="acesta_este_un_test">
+        Click <a href="https://biancaiulia21.github.io/coffee-app/"> here </a> to check out the best coffee in town!</string>
+    <string name="coffee_app">GFG | TextViewHyperlinks</string>
+
+</resources>
